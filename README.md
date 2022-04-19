@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YahyaLom
 - 👀 I’m interested in program language...
-- 🌱 I’m currently learning HTML-cSS & C#;
+- 🌱 I’m currently learning HTML-CSS & C#;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with gmail -> halilogluyahya@gmail.com 
 - thank you;
